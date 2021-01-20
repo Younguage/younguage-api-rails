@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  french_word: MyString
+  english_word: MyString
+  mastered: false
+
+two:
+  french_word: MyString
+  english_word: MyString
+  mastered: false
